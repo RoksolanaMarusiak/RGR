@@ -1,0 +1,17 @@
+Printer_45_5.9_Living room
+Iron_1100_1.7_Bedroom
+Fan_100_4.3_Bedroom
+Air conditioning_1000_13_Bedroom
+Hoover_650_4.5_Living room
+Toaster_1200_1.1_Kitchen
+TV_339_9_Living room
+Refrigerator_188_48_Kitchen
+Oven_2300_35_Kitchen
+Monitor_150_4.6_Living room
+Computer_120_7_Living room
+Heater_1520_8_Bedroom
+Mixer_100_2.5_Kitchen
+Teapot_479_0.6_Kitchen
+Notebook_50_1_Bedroom
+Hair dryer_1538_0.633_Bathroom
+Dishwasher_1800_43_Kitchen
