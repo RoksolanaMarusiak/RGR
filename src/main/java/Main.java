@@ -73,7 +73,6 @@ public class Main {
                 try {
                     stringData = currentFileString.split("_");
                 }catch (NullPointerException r) {break;}
-                System.out.println(stringData[0]);
                 ElectricalAppliances newApl = new ElectricalAppliances();
                 newApl.setName(stringData[0]);
                 try {
